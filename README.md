@@ -11,6 +11,7 @@ It demonstrates the complete lifecycle of a BI project:
 - Power BI dashboarding and storytelling
 
 The final deliverable is a **multi-page interactive Power BI report** designed for different stakeholder needs, ranging from executives to analysts.
+
 ![home_screenshot](img/instacart-bi-dashboard.png)
 ---
 
